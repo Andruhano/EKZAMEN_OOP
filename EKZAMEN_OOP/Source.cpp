@@ -7,7 +7,7 @@
 using namespace std;
 
 class WordBank
-{
+{ 
 vector<string> words;
 string decryptWord(const string& encryptedWord)
 {
